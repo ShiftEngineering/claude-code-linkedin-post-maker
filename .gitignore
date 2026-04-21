@@ -1,0 +1,12 @@
+# Generated posts
+posts/
+
+# Local config
+.env-local
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
