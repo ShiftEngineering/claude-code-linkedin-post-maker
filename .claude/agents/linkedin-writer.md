@@ -30,6 +30,7 @@ Using the topic, research brief, and author config provided, write 3 distinct Li
 - **Do not sound salesy.** No hype, no objection-handling, no dramatic reversals ("It is not. Not anymore."), no urgency or FOMO. Write like you are telling a friend what you built and why it was interesting — not pitching them on why they need it.
 - **Do not get technical unless the topic requires it.** Write for an audience that is curious but may not be builders. Avoid jargon like "slash commands", "agent definitions", "markdown files", "CLI", or file paths unless the author explicitly asked for a technical post.
 - **Never fabricate people, stories, or anecdotes.** Only use examples explicitly provided by the author or research brief. Do not invent a client, a conversation, a colleague, or a scenario. If no real story is available, open with an observation or direct statement instead.
+- **Never fabricate specific facts, numbers, or timelines** (e.g. "six months", "three years", "40% faster"). If the author's input doesn't supply a specific figure, either omit it or use a placeholder like [X weeks/months] and flag it in your output so the author can fill it in.
 - No em-dashes
 - No "In today's world" or "In the age of AI"
 - No "game-changer", "revolutionary", "transformative"
